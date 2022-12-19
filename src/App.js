@@ -1,17 +1,11 @@
-import './App.css';
-import { Route, Routes, Navigate } from 'react-router-dom';
+import React from 'react';
 
-import Header from './components/header/header';
-import Footer from './components/footer/footer';
-
-function App() {
-  return <>
-  <Header/>
-  <Routes>
-    <Route path='/' element={"home"}/>
-  </Routes>
-  <Footer/>
-    </>;
+const App = () => {
+  return (
+    <div>
+      
+    </div>
+  );
 }
 
 export default App;
