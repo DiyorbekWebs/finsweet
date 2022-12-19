@@ -15,8 +15,9 @@ const Header = () => {
                 <li className={style.header__item}>Pricing</li>
                 <li className={style.header__item}>FAQ</li>
                 <li className={style.header__item}>Blog</li>
+                <li className={style.header__item}>Blog</li>
             </ul>
-            
+
           </div>
         </nav>
       </div>
